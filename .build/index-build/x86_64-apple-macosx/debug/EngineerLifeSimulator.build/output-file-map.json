@@ -1,0 +1,180 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/master.swiftdeps"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/AssetEngine.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/AssetEngine.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/AssetEngine.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/AssetEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/AssetEngine.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/AssetEngine.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/DisciplineExtensions.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DisciplineExtensions.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DisciplineExtensions.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DisciplineExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DisciplineExtensions.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DisciplineExtensions.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/DisciplineViews.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DisciplineViews.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DisciplineViews.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DisciplineViews~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DisciplineViews.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DisciplineViews.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/DynamicVisualIntegration.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DynamicVisualIntegration.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DynamicVisualIntegration.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DynamicVisualIntegration~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DynamicVisualIntegration.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DynamicVisualIntegration.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/DynamicVisualSystem.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DynamicVisualSystem.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DynamicVisualSystem.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DynamicVisualSystem~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DynamicVisualSystem.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DynamicVisualSystem.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/DynamicVisualView.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DynamicVisualView.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DynamicVisualView.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DynamicVisualView~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DynamicVisualView.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DynamicVisualView.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/EngineerLifeSimulatorApp.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/EngineerLifeSimulatorApp.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/EngineerLifeSimulatorApp.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/EngineerLifeSimulatorApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/EngineerLifeSimulatorApp.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/EngineerLifeSimulatorApp.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/EngineeringDisciplines.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/EngineeringDisciplines.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/EngineeringDisciplines.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/EngineeringDisciplines~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/EngineeringDisciplines.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/EngineeringDisciplines.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/Enhanced3DAssetViews.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/Enhanced3DAssetViews.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/Enhanced3DAssetViews.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/Enhanced3DAssetViews~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/Enhanced3DAssetViews.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/Enhanced3DAssetViews.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/GameModels.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/GameModels.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/GameModels.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/GameModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/GameModels.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/GameModels.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/GameStoreNPCExtension.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/GameStoreNPCExtension.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/GameStoreNPCExtension.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/GameStoreNPCExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/GameStoreNPCExtension.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/GameStoreNPCExtension.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/MLPredictor.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MLPredictor.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MLPredictor.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MLPredictor~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MLPredictor.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MLPredictor.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/MajorMinorViews.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MajorMinorViews.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MajorMinorViews.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MajorMinorViews~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MajorMinorViews.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MajorMinorViews.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/Metal4MLPipeline.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/Metal4MLPipeline.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/Metal4MLPipeline.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/Metal4MLPipeline~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/Metal4MLPipeline.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/Metal4MLPipeline.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/MetalAssetRenderer.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MetalAssetRenderer.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MetalAssetRenderer.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MetalAssetRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MetalAssetRenderer.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MetalAssetRenderer.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/MetalRenderer.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MetalRenderer.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MetalRenderer.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MetalRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MetalRenderer.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/MetalRenderer.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/ModernGameViews.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/ModernGameViews.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/ModernGameViews.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/ModernGameViews~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/ModernGameViews.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/ModernGameViews.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/ModernShopViews.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/ModernShopViews.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/ModernShopViews.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/ModernShopViews~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/ModernShopViews.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/ModernShopViews.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/ModernViews.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/ModernViews.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/ModernViews.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/ModernViews~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/ModernViews.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/ModernViews.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/NPCEngine.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/NPCEngine.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/NPCEngine.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/NPCEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/NPCEngine.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/NPCEngine.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/PlayerCustomizationEngine.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/PlayerCustomizationEngine.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/PlayerCustomizationEngine.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/PlayerCustomizationEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/PlayerCustomizationEngine.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/PlayerCustomizationEngine.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/PlayerCustomizationViews.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/PlayerCustomizationViews.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/PlayerCustomizationViews.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/PlayerCustomizationViews~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/PlayerCustomizationViews.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/PlayerCustomizationViews.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/TeamViews.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/TeamViews.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/TeamViews.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/TeamViews~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/TeamViews.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/TeamViews.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/VisualIntegrationHub.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/VisualIntegrationHub.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/VisualIntegrationHub.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/VisualIntegrationHub~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/VisualIntegrationHub.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/VisualIntegrationHub.dia"
+  },
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/resource_bundle_accessor.d",
+    "object": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/resource_bundle_accessor.dia"
+  }
+}

@@ -1,0 +1,64 @@
+client:
+  name: basic
+  file-system: device-agnostic
+tools: {}
+targets:
+  "EngineerLifeSimulator-x86_64-apple-macosx15.0-debug.module": ["<EngineerLifeSimulator-x86_64-apple-macosx15.0-debug.module>"]
+  "PackageStructure": ["<PackageStructure>"]
+  "main": ["<EngineerLifeSimulator-x86_64-apple-macosx15.0-debug.module>"]
+  "test": ["<EngineerLifeSimulator-x86_64-apple-macosx15.0-debug.module>"]
+default: "main"
+nodes:
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/":
+    is-directory-structure: true
+    content-exclusion-patterns: [".git",".build"]
+commands:
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/sources":
+    tool: write-auxiliary-file
+    inputs: ["<sources-file-list>","/Users/jaysshit/Downloads/EngineerLifeSimulator/AssetEngine.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/DisciplineExtensions.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/DisciplineViews.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/DynamicVisualIntegration.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/DynamicVisualSystem.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/DynamicVisualView.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/EngineerLifeSimulatorApp.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/EngineeringDisciplines.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/Enhanced3DAssetViews.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/GameModels.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/GameStoreNPCExtension.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/MLPredictor.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/MajorMinorViews.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/Metal4MLPipeline.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/MetalAssetRenderer.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/MetalRenderer.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/ModernGameViews.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/ModernShopViews.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/ModernViews.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/NPCEngine.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/PlayerCustomizationEngine.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/PlayerCustomizationViews.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/TeamViews.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/VisualIntegrationHub.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DerivedSources/resource_bundle_accessor.swift"]
+    outputs: ["/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/sources"]
+    description: "Write auxiliary file /Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/sources"
+
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator_EngineerLifeSimulator.bundle/AdvancedShaders.metal":
+    tool: copy-tool
+    inputs: ["/Users/jaysshit/Downloads/EngineerLifeSimulator/AdvancedShaders.metal"]
+    outputs: ["/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator_EngineerLifeSimulator.bundle/AdvancedShaders.metal"]
+    description: "Copying /Users/jaysshit/Downloads/EngineerLifeSimulator/AdvancedShaders.metal"
+
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator_EngineerLifeSimulator.bundle/Shaders.metal":
+    tool: copy-tool
+    inputs: ["/Users/jaysshit/Downloads/EngineerLifeSimulator/Shaders.metal"]
+    outputs: ["/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator_EngineerLifeSimulator.bundle/Shaders.metal"]
+    description: "Copying /Users/jaysshit/Downloads/EngineerLifeSimulator/Shaders.metal"
+
+  "/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt":
+    tool: write-auxiliary-file
+    inputs: ["<swift-get-version>","/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"]
+    outputs: ["/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"]
+    always-out-of-date: "true"
+    description: "Write auxiliary file /Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+
+  "<EngineerLifeSimulator-x86_64-apple-macosx15.0-debug.module>":
+    tool: phony
+    inputs: ["/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/Modules/EngineerLifeSimulator.swiftmodule"]
+    outputs: ["<EngineerLifeSimulator-x86_64-apple-macosx15.0-debug.module>"]
+
+  "C.EngineerLifeSimulator-x86_64-apple-macosx15.0-debug.module":
+    tool: shell
+    inputs: ["/Users/jaysshit/Downloads/EngineerLifeSimulator/AssetEngine.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/DisciplineExtensions.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/DisciplineViews.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/DynamicVisualIntegration.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/DynamicVisualSystem.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/DynamicVisualView.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/EngineerLifeSimulatorApp.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/EngineeringDisciplines.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/Enhanced3DAssetViews.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/GameModels.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/GameStoreNPCExtension.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/MLPredictor.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/MajorMinorViews.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/Metal4MLPipeline.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/MetalAssetRenderer.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/MetalRenderer.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/ModernGameViews.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/ModernShopViews.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/ModernViews.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/NPCEngine.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/PlayerCustomizationEngine.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/PlayerCustomizationViews.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/TeamViews.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/VisualIntegrationHub.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/DerivedSources/resource_bundle_accessor.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt","<EngineerLifeSimulator-x86_64-apple-macosx15.0-debug.module-resources>","/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/sources"]
+    outputs: ["/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/Modules/EngineerLifeSimulator.swiftmodule"]
+    description: "Compiling Swift Module 'EngineerLifeSimulator' (25 sources)"
+    args: ["/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc","-module-name","EngineerLifeSimulator","-emit-dependencies","-emit-module","-emit-module-path","/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/Modules/EngineerLifeSimulator.swiftmodule","-output-file-map","/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/output-file-map.json","-incremental","@/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator.build/sources","-I","/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/Modules","-target","x86_64-apple-macosx13.0","-incremental","-enable-batch-mode","-serialize-diagnostics","-Onone","-enable-testing","-j4","-DSWIFT_PACKAGE","-DDEBUG","-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE","-module-cache-path","/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/ModuleCache","-parseable-output","-Xfrontend","-entry-point-function-name","-Xfrontend","EngineerLifeSimulator_main","-swift-version","5","-Xfrontend","-experimental-lazy-typecheck","-Xfrontend","-experimental-skip-all-function-bodies","-Xfrontend","-experimental-allow-module-with-compiler-errors","-Xfrontend","-empty-abi-descriptor","-plugin-path","/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing","-sdk","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk","-F","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks","-F","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks","-I","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib","-L","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib","-g","-Xcc","-isysroot","-Xcc","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk","-Xcc","-F","-Xcc","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks","-Xcc","-F","-Xcc","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks","-Xcc","-fPIC","-Xcc","-g","-package-name","engineerlifesimulator"]
+
+  "EngineerLifeSimulator-x86_64-apple-macosx15.0-debug.module-resources":
+    tool: phony
+    inputs: ["/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator_EngineerLifeSimulator.bundle/AdvancedShaders.metal","/Users/jaysshit/Downloads/EngineerLifeSimulator/.build/index-build/x86_64-apple-macosx/debug/EngineerLifeSimulator_EngineerLifeSimulator.bundle/Shaders.metal"]
+    outputs: ["<EngineerLifeSimulator-x86_64-apple-macosx15.0-debug.module-resources>"]
+
+  "PackageStructure":
+    tool: package-structure-tool
+    inputs: ["/Users/jaysshit/Downloads/EngineerLifeSimulator/","/Users/jaysshit/Downloads/EngineerLifeSimulator/Package.swift","/Users/jaysshit/Downloads/EngineerLifeSimulator/Package.resolved"]
+    outputs: ["<PackageStructure>"]
+    description: "Planning build"
+    allow-missing-inputs: true
+

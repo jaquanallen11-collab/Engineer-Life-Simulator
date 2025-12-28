@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:EngineerLifeSimulator}",
+            "name": "Debug EngineerLifeSimulator",
+            "target": "EngineerLifeSimulator",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug EngineerLifeSimulator"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:EngineerLifeSimulator}",
+            "name": "Release EngineerLifeSimulator",
+            "target": "EngineerLifeSimulator",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release EngineerLifeSimulator"
+        }
+    ]
+}
