@@ -106,6 +106,5 @@ struct ContentView: View {
             .buttonStyle(PlainButtonStyle())
             .padding()
         }
-        }
     }
 }

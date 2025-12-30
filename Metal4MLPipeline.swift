@@ -1,6 +1,6 @@
 import Metal
 import MetalKit
-import MetalPerformanceShadders
+import MetalPerformanceShaders
 import Accelerate
 
 // MARK: - Metal 4 Machine Learning Pipeline

@@ -1,0 +1,21 @@
+# Xcode
+.DS_Store
+.build/
+.swiftpm/
+xcuserdata/
+*.xcuserstate
+
+# Build artifacts
+build/
+DerivedData/
+
+# Swift Package Manager
+.swiftpm/xcode/package.xcworkspace/
+.swiftpm/xcode/xcuserdata/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+.Trash/
